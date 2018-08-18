@@ -1,0 +1,19 @@
+.card {
+    height: 175px;
+    margin: 1rem;
+    position: relative;
+    width: 180px;
+    box-shadow: 0 3px 6px black, 0 3px 6px black;
+    border-radius: 60px; 
+  }
+  
+  .img-container {
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  img {
+    height: 150px;
+    width: 150px;
+  }

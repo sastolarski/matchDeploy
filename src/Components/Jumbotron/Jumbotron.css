@@ -1,0 +1,15 @@
+.jumbotron {
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    text-shadow: 1px 1px 4px yellowgreen;
+
+}
+
+.score {
+    color: greenyellow;
+    font-size: 2em;
+    text-shadow: 2px 2px 4px black;
+}

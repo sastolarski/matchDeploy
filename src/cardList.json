@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "./images/john1.png",
+        "clicked": false
+      },
+      {
+        "id": 2,
+        "image": "./images/john2.png",
+        "clicked": false
+      },
+      {
+        "id": 3,
+        "image": "./images/popejohn10.png",
+        "clicked": false
+      },
+      {
+        "id": 4,
+        "image": "./images/john4.png",
+        "clicked": false
+      },
+      {
+        "id": 5,
+        "image": "./images/john5.png",
+        "clicked": false
+      },
+      {
+        "id": 6,
+        "image": "./images/john6.png",
+        "clicked": false    
+      },
+      {
+        "id": 7,
+        "image": "./images/johnFK11.png",
+        "clicked": false
+      },
+      {
+        "id": 8,
+        "image": "./images/john8.png",
+        "clicked": false
+      },
+      {
+        "id": 9,
+        "image": "./images/john9.png",
+        "clicked": false
+      },
+      {
+        "id": 10,
+        "image": "./images/eltonJohn12.png",
+        "clicked": false
+      },
+      {
+        "id": 11,
+        "image": "./images/john7.png",
+        "clicked": false
+      },
+      {
+        "id": 12,
+        "image": "./images/john3.png",
+        "clicked": false
+      }
+]
